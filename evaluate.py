@@ -21,6 +21,7 @@ from sklearn.metrics import roc_auc_score, accuracy_score
 from PIL import Image
 
 # Validate the model
+model = 'model.pt'
 model.eval()
 for data, target in valid_loader:
     # Mode tensors to GPU if CUDA is available
