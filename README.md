@@ -35,10 +35,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-Here's a brief overview of the contents of this repository:
-    * `train.py`: This script is used to train a model on the dataset.
-    * `evaluate.py`: This script is used to evaluate a trained model on the test set.
-    * `model.pt`: This is a trained model.
+Here's a brief overview of the contents of this repository: 
+    - `train.py`: This script is used to train a model on the dataset.
+    - `evaluate.py`: This script is used to evaluate a trained model on the test set.
+    - `model.pt`: This is a trained model.
 
 To train a model, run the following command:
 
@@ -73,4 +73,3 @@ Contributions to this project are welcome! If you have any suggestions, bug repo
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
